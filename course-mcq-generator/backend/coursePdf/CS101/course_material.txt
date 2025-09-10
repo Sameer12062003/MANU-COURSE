@@ -1,0 +1,79 @@
+This is a sample course material PDF for CS101 - Introduction to Computer Science.
+
+Course Overview:
+This course provides a comprehensive introduction to computer science fundamentals.
+
+Topics Covered:
+1. Programming Fundamentals
+2. Data Structures
+3. Algorithms
+4. Computer Architecture
+5. Software Engineering Principles
+
+Chapter 1: Programming Fundamentals
+
+Programming is the process of creating instructions for computers to follow. 
+Key concepts include:
+
+- Variables: Storage locations with names
+- Functions: Reusable blocks of code
+- Control Structures: If statements, loops
+- Data Types: Integer, String, Boolean
+
+Variables in Programming:
+A variable is a named storage location that can hold data. Variables have:
+- Name: An identifier
+- Type: The kind of data stored
+- Value: The actual data
+
+Example:
+int age = 25;
+string name = "John";
+
+Functions:
+Functions are reusable blocks of code that perform specific tasks.
+Benefits:
+- Code reusability
+- Better organization
+- Easier debugging
+- Modular design
+
+Data Structures:
+Data structures organize and store data efficiently.
+Common types:
+- Arrays: Ordered collections
+- Lists: Dynamic arrays
+- Stacks: Last In First Out (LIFO)
+- Queues: First In First Out (FIFO)
+
+Algorithms:
+Step-by-step procedures for solving problems.
+Properties:
+- Finite: Must terminate
+- Definite: Clear instructions
+- Input: Zero or more inputs
+- Output: One or more outputs
+- Effective: Feasible operations
+
+Sorting Algorithms:
+- Bubble Sort: O(n²) time complexity
+- Quick Sort: O(n log n) average case
+- Merge Sort: O(n log n) guaranteed
+
+Search Algorithms:
+- Linear Search: O(n) time complexity
+- Binary Search: O(log n) for sorted arrays
+
+Time Complexity:
+Measure of algorithm efficiency:
+- O(1): Constant time
+- O(log n): Logarithmic time
+- O(n): Linear time
+- O(n log n): Linearithmic time
+- O(n²): Quadratic time
+
+Space Complexity:
+Memory usage of algorithms:
+- Input space: Memory for input
+- Auxiliary space: Extra memory used
+- Output space: Memory for output

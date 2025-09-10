@@ -1,0 +1,63 @@
+This is a sample course material for CS102 - Data Structures and Algorithms.
+
+Course Overview:
+Advanced concepts in computer science focusing on data structures and algorithmic thinking.
+
+Topics Covered:
+1. Advanced Data Structures
+2. Graph Theory
+3. Dynamic Programming
+4. Complexity Analysis
+5. Design Patterns
+
+Chapter 1: Advanced Data Structures
+
+Trees:
+Binary trees are hierarchical data structures.
+Properties:
+- Each node has at most two children
+- Left and right subtrees
+- Root node at the top
+- Leaf nodes have no children
+
+Binary Search Trees (BST):
+- Left child < parent < right child
+- Search: O(log n) average case
+- Insert: O(log n) average case
+- Delete: O(log n) average case
+
+Balanced Trees:
+- AVL Trees: Height-balanced
+- Red-Black Trees: Color-balanced
+- B-Trees: Multi-way trees
+
+Hash Tables:
+Key-value pair storage with O(1) average access.
+Components:
+- Hash function: Maps keys to indices
+- Buckets: Storage locations
+- Collision resolution: Chaining or open addressing
+
+Graph Theory:
+Graphs represent relationships between objects.
+Types:
+- Directed vs Undirected
+- Weighted vs Unweighted
+- Cyclic vs Acyclic
+
+Graph Traversal:
+- Depth-First Search (DFS): Use stack
+- Breadth-First Search (BFS): Use queue
+- Applications: Path finding, connectivity
+
+Dynamic Programming:
+Solve problems by breaking into subproblems.
+Principles:
+- Optimal substructure
+- Overlapping subproblems
+- Memoization or tabulation
+
+Examples:
+- Fibonacci sequence
+- Knapsack problem
+- Longest common subsequence
